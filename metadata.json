@@ -1,0 +1,16 @@
+{
+  "icon": "icon.svg",
+  "vm": {
+    "composefile": "docker-compose.yaml"
+  },
+  "ui": {
+    "dashboard-tab": {
+      "title": "n8n",
+      "root": "/ui",
+      "src": "index.html"
+    }
+  }
+  
+}
+
+
