@@ -21,3 +21,8 @@ make build-extension
 ```plaintext
 make install-extension
 ```
+*   **Images**
+  
+![n8n docker extension](/repository/assets/1.png?raw=true "Docker extension")
+![n8n docker extension](/repository/assets/2.png?raw=true "Docker extension")
+![n8n docker extension](/repository/assets/3.png?raw=true "Docker extension")
